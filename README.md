@@ -1,2 +1,2 @@
 # DScienceCurso
- Ejercicios del curso de DScience con python de Linkedin
+ Ejercicios del curso de python para DScience avanzado de Linkedin, los archivos tienen un número al final que dice el órden en que aparecieron en el curso, trabajé con un archivo llamado 2008_limpia que contiene menos datos que el original pues en todos los ejercicios no ocupábamos todos los datos, además de que el original pesa demasiado. Los únicos ejercicios que no pongo son los de análisis de texto, además les adjunto mi propia versión del proyecto final, donde usé otra tabla de otra página de wikipedia, además encontrarán en varios archivos algunas diferencias y comparaciones que yo mismo hice, disculpen si no las comento todas.
